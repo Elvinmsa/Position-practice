@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.head{
+    background-color: blue;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.head h1{
+    text-align: center;
+    color: white;
+}
+
+.test-one{
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 30%;
+}
+
+p{
+    color: white;
+    font-size: 200px;
+}
